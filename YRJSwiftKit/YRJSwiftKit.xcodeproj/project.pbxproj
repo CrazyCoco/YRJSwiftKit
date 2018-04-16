@@ -12,6 +12,7 @@
 		3C6932A82046572500087C9C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C6932A62046572500087C9C /* Main.storyboard */; };
 		3C6932AA2046572500087C9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C6932A92046572500087C9C /* Assets.xcassets */; };
 		3C6932AD2046572500087C9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C6932AB2046572500087C9C /* LaunchScreen.storyboard */; };
+		3C9C20C3207EF9A200059DEC /* YRJKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9C20C2207EF9A200059DEC /* YRJKit.swift */; };
 		3CAE3CF6207CA9600030D371 /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAE3CE6207CA9600030D371 /* UIButtonExtension.swift */; };
 		3CAE3CF7207CA9600030D371 /* UIAlertControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAE3CE7207CA9600030D371 /* UIAlertControllerExtension.swift */; };
 		3CAE3CF8207CA9600030D371 /* UIImageViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAE3CE8207CA9600030D371 /* UIImageViewExtension.swift */; };
@@ -38,6 +39,7 @@
 		3C6932A92046572500087C9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C6932AC2046572500087C9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C6932AE2046572500087C9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C9C20C2207EF9A200059DEC /* YRJKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YRJKit.swift; sourceTree = "<group>"; };
 		3CAE3CE6207CA9600030D371 /* UIButtonExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIButtonExtension.swift; sourceTree = "<group>"; };
 		3CAE3CE7207CA9600030D371 /* UIAlertControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIAlertControllerExtension.swift; sourceTree = "<group>"; };
 		3CAE3CE8207CA9600030D371 /* UIImageViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageViewExtension.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 		3CAE3CE5207CA9600030D371 /* YRJSwiftKit */ = {
 			isa = PBXGroup;
 			children = (
+				3C9C20C2207EF9A200059DEC /* YRJKit.swift */,
 				3CAE3CE6207CA9600030D371 /* UIButtonExtension.swift */,
 				3CAE3CE7207CA9600030D371 /* UIAlertControllerExtension.swift */,
 				3CAE3CE8207CA9600030D371 /* UIImageViewExtension.swift */,
@@ -200,6 +203,7 @@
 				3CAE3CFB207CA9600030D371 /* UITextFieldExtension.swift in Sources */,
 				3CAE3CF7207CA9600030D371 /* UIAlertControllerExtension.swift in Sources */,
 				3C6932A52046572500087C9C /* ViewController.swift in Sources */,
+				3C9C20C3207EF9A200059DEC /* YRJKit.swift in Sources */,
 				3C6932A32046572500087C9C /* AppDelegate.swift in Sources */,
 				3CAE3D01207CA9600030D371 /* UITabBarExtension.swift in Sources */,
 				3CAE3CFA207CA9600030D371 /* ArrayExtension.swift in Sources */,
